@@ -1,4 +1,5 @@
 .transactionTable {
+  margin: 0 auto;
   margin-bottom: 46px;
 }
 .transactionTable tbody tr:nth-child(even) {
